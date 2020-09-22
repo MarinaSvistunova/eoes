@@ -16,9 +16,19 @@ ___
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/2-crop.png" width="40%">
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/3-crop.png" width="40%">
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/4.png" width="40%">
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/5-crop.png" width="40%">
+Проверка статуса nginx:
+
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/3-crop.png" width="80%">
+
+Сервер подключен к домену m.marinasv.ru. По этому адресу выдается заглушка nginx сразу после его установки:
+
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/4.png" width="60%">
+
+Установка php7.2-fpm (fpm - серверный вариант реализации интерпретатора, который соединяется с веб-сервером,  в данном случае - nginx), проверка статуса :
+
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/5-crop.png" width="100%">
+
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/6-edit.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/7-edit.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/8-edit.png" width="40%">
