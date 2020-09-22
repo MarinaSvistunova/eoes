@@ -8,8 +8,14 @@ ___
 
 ### Вариант 1
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/1.png" width="40%">
+Создание сервера на vscale:
+
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/1.png" width="30%">
+
+Установка nginx, проверка текущей версии:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/2-crop.png" width="40%">
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/3-crop.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/4.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/5-crop.png" width="40%">
