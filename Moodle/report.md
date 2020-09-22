@@ -6,35 +6,49 @@
   - Сверьтесь с инструкцией: https://kodaktor.ru/moodle-dump-compose.pdf
 ___
 
-### Вариант 1
+## Вариант 1
 
-Создание сервера на vscale:
+#### Создание сервера на vscale:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/1.png" width="30%">
 
-Установка nginx, проверка текущей версии:
+#### Установка nginx, проверка текущей версии:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/2-crop.png" width="40%">
 
-Проверка статуса nginx:
+#### Проверка статуса nginx:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/3-crop.png" width="80%">
 
-Сервер подключен к домену m.marinasv.ru. По этому адресу выдается заглушка nginx сразу после его установки:
+#### Сервер подключен к домену m.marinasv.ru. По этому адресу выдается заглушка nginx сразу после его установки:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/4.png" width="60%">
 
-Установка php7.2-fpm (fpm - серверный вариант реализации интерпретатора, который соединяется с веб-сервером,  в данном случае - nginx), проверка статуса :
+#### Установка php7.2-fpm (fpm - серверный вариант реализации интерпретатора, который соединяется с веб-сервером,  в данном случае - nginx), проверка статуса :
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/5-crop.png" width="100%">
 
+#### Для связи php сценария и веб-сервера необходимо изменить файл настроек nginx:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/6-edit.png" width="40%">
+
+#### Изменить файл настроек php, после перезапустить nginx и php:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/7-edit.png" width="40%">
+
+#### Добавить index.php как один из вариантов индексной станицы (настройки nginx):
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/8-edit.png" width="40%">
+
+#### Добавление репозитория базы данных:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/9-crop.png" width="40%">
+
+#### Настройки базы данных:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/10.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/11.png" width="40%">
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/12-crop.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/13.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/14.png" width="40%">
