@@ -49,15 +49,40 @@ ___
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/10.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/11.png" width="40%">
 
+#### Поиск пакета mysql:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/12-crop.png" width="40%">
+
+#### Установка пароля пользователя root:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/13.png" width="40%">
+
+#### Конфигурация безопасных настроек mysql:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/14.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/15.png" width="40%">
+
+#### Создание базы данных moodle:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/16-crop.png" width="40%">
+
+#### Получение сертификата ssl:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/17.png" width="40%">
+
+#### Изменение файла настроек nginx. Добавление имени сервера, порта 443 и пути к сертификату и ключу:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/18-edit.png" width="40%">
+
+#### Очистка папки сайта и скачивание zip-архива с moodle:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/19-crop.png" width="40%">
+
+#### Изменение настроек nginx, добавление регулярных выражений для описания того, каким образом происходит передача данных:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/20-edit.png" width="40%">
+
+#### 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/22-edit.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/23.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/24.png" width="40%">
