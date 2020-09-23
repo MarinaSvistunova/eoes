@@ -149,15 +149,15 @@ ___
 
 #### Для установки moodle необходимо перейти по адресу c.marinasv.ru/moodle. Возникает следующая ошибка:
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/43.png" width="60%">
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/43.png" width="80%">
 
 #### Попытка подключиться к контейнеру, который отвечает за nginx:
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/44-crop.png" width="60%">
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/44-crop.png" width="100%">
 
 #### В файле config.php внести директиву, которая включает проксирование https трафика:
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/45-edit.png" width="60%">
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/45-edit.png" width="80%">
 
 #### После внесения директивы ошибка исчезает:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/46.png" width="60%">
