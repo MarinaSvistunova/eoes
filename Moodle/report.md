@@ -121,14 +121,37 @@ ___
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/36.png" width="40%">
 
-#### 
+
+## Вариант 2
+
+#### Создание сервера на vscale:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/37.png" width="40%">
+
+#### Проверка версии docker-compose.Создание папки сайта и скачивание в нее файла docker-compose.yml:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/38-crop.png" width="40%">
+
+#### Файл docker-compose.yml:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/39.png" width="40%">
+
+#### Скачивание дамба базы данных moodle:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/40-crop.png" width="40%">
+
+#### Сборка командой "docker-compose up":
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/41.png" width="40%">
+
+#### По адресу c.marinasv.ru доступна заглушка Apache2 Ubuntu. Есть ssl сертификат:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/42.png" width="40%">
+
+#### Для установки moodle необходимо перейти по адресу c.marinasv.ru/moodle. Возникает следующая ошибка:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/43.png" width="40%">
+
+#### 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/44-crop.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/45-edit.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/46.png" width="40%">
