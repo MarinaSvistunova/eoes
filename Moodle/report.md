@@ -82,22 +82,46 @@ ___
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/20-edit.png" width="40%">
 
-#### 
+#### Начало установки moodle при переходе на страницу m.marinasv.ru/install.php (на скриншоте видно, что соединение защищено):
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/22-edit.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/23.png" width="40%">
+
+#### Ошибка установки:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/24.png" width="40%">
+
+#### Для устранения ошибки, указанной выше, необходимо в папке сайта вручную создать папку, поменять владельца и добавить право записи в эту папку:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/25-crop.png" width="40%">
+
+#### Продолжение установки:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/26.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/27.png" width="40%">
+
+#### Создать config.php в /var/www/html/moodle (текст файла будет сгенерирован moodle):
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/28.png" width="40%">
+
+#### Продолжение установки:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/29.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/30.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/31.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/32.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/33.png" width="40%">
+
+#### Moodle развернут. Завершение регистрации:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/34.png" width="40%">
+
+#### Создание нового пользователя:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/35.png" width="40%">
+
+#### Созданы 2 пользователя (администратор и преподаватель). Moodle работает:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/36.png" width="40%">
+
+#### 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/37.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/38-crop.png" width="40%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/39.png" width="40%">
