@@ -157,7 +157,7 @@ ___
 
 #### В файле config.php внести директиву, которая включает проксирование https трафика:
 
-<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/45-edit.png" width="80%">
+<img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/45-edit.png" width="100%">
 
 #### После внесения директивы ошибка исчезает:
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Moodle/46.png" width="60%">
