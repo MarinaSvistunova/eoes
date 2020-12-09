@@ -10,17 +10,53 @@ ___
 #### Создание нового модуля, выбор его шаблона:
 
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/01.png" width="70%">
+
+#### Первый слайд с информацией обо мне и тема:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/02.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 1:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/03.png" width="70%">
+
+#### Второй слайд:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/04.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 3:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/05.png" width="70%">
+
+#### Третий слайд:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/06.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 7:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/07.png" width="70%">
+
+#### Четвертый слайд:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/08.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 15:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/09.png" width="70%">
+
+#### Пятый слайд:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/10.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 31:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/11.png" width="70%">
+
+#### Шестой слайд:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/12.png" width="70%">
+
+#### После показа этого слайда балл за прохождение ставится равным 63:
+
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/13.png" width="70%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/14.png" width="70%">
 <img src="https://github.com/MarinaSvistunova/eoes/blob/master/images/Scorm/15.png" width="70%">
